@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">TestRecyclerViewAndCardView</string>
+
+    <string name="header_text">The Header</string>
+    <string name="footer_text">The Footer</string>
+
+    <!--footer-->
+    <string name="list_footer_loading">Loading…</string>
+    <string name="list_footer_network_error">Press to load again</string>
+    <string name="list_footer_end">The End</string>
+
+    <string name="btn_jump_to_shopping_mall">Detail about the Shopping Mall</string>
+    <string name="btn_jump_to_product">Detail about the Product</string>
+</resources>
